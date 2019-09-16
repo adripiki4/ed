@@ -1,0 +1,6 @@
+20190916 ap
+
+hemos creado usuario en github (adripiki4)
+creado repositorio: ed con README.md y .gitignore (plantilla de java)
+
+git clone https://github.com/adripiki4/ed.git
