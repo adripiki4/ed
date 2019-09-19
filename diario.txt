@@ -3,4 +3,18 @@
 hemos creado usuario en github (adripiki4)
 creado repositorio: ed con README.md y .gitignore (plantilla de java)
 
+Clonar en local:
 git clone https://github.com/adripiki4/ed.git
+
+20190919 ap
+
+git config --global user.name adripiki4
+git config --global user.email adriba@alu.iesserpis.org
+git config --global push default simple
+
+git add diario.txt (marcar lo que quiero que se incorpore)
+git commit -m "diario.txt con introducion a github y git"
+git push
+
+git status (estado en el que estas)
+git log (lista de versiones)
