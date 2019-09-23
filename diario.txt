@@ -18,3 +18,17 @@ git push
 
 git status (estado en el que estas)
 git log (lista de versiones)
+
+20190923 ap
+
+virtual box
+serpisdam: RAM 2048MB, DISCO 20GB, procesadores
+Idioma: español
+Zona o huso horario: Madrid
+usuario: administrador / sistemas
+nombre del equipo: serpisdam
+
+sudo -i : pasamos a ser root
+apt update: muestra los paquetes para actualizar
+apt full-upgrade: para actualizar todos los paquetes
+
