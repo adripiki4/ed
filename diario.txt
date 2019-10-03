@@ -32,3 +32,10 @@ sudo -i : pasamos a ser root
 apt update: muestra los paquetes para actualizar
 apt full-upgrade: para actualizar todos los paquetes
 
+20190926 ap
+
+Descargamos el instalador de Eclipse en la maquina virtual
+Miramos en el ordenador fisico las versiones de java 
+	java----> ejecutador
+	javac--->compilador
+
