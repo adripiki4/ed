@@ -1,3 +1,5 @@
+CORREO LUIS: luis.velasco@iesserpis.org
+
 20190916 ap
 
 hemos creado usuario en github (adripiki4)
@@ -38,4 +40,25 @@ Descargamos el instalador de Eclipse en la maquina virtual
 Miramos en el ordenador fisico las versiones de java 
 	java----> ejecutador
 	javac--->compilador
+
+20190930 ap
+Hacemos un javaproject en eclipse denominado JHOlamundo
+Utilizamos el "System.out.println("Hola Mundo")
+ejecutamos el .java desde el terminal para combrobarlo.
+
+20191021 ap
+
+JAdivina: Random = new Random();
+"" = random.nextInt("numero que queremos generar, menos el maximo")(ponemos un +1 y generamos todos)
+args : argumentos que le pasamos al programa
+finalizar el JAdivina : usando contador de intentos y estableciendo rangos para acertar.
+
+20191028 ap
+JVector- Creamos un programa que nos busque un numero a traves de un vector.
+Declaramos un nuevo (public static int indexof)
+El programa nos devuelve la posicion dependiendo del numero que queramos buscar.
+Realizar autoevaluación, segun conceptos obtenidos y trabajo en clase. 
+
+
+
 
