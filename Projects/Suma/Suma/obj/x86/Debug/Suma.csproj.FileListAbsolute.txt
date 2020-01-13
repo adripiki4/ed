@@ -1,0 +1,6 @@
+/home/adriba/ed/Projects/Suma/Suma/bin/Debug/Suma.exe
+/home/adriba/ed/Projects/Suma/Suma/bin/Debug/Suma.pdb
+/home/adriba/ed/Projects/Suma/Suma/obj/x86/Debug/Suma.csprojAssemblyReference.cache
+/home/adriba/ed/Projects/Suma/Suma/obj/x86/Debug/Suma.csproj.CoreCompileInputs.cache
+/home/adriba/ed/Projects/Suma/Suma/obj/x86/Debug/Suma.exe
+/home/adriba/ed/Projects/Suma/Suma/obj/x86/Debug/Suma.pdb
