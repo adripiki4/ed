@@ -1,0 +1,6 @@
+/home/adriba/Projects/Hola/Hola/bin/Debug/Hola.exe
+/home/adriba/Projects/Hola/Hola/bin/Debug/Hola.pdb
+/home/adriba/Projects/Hola/Hola/obj/x86/Debug/Hola.csprojAssemblyReference.cache
+/home/adriba/Projects/Hola/Hola/obj/x86/Debug/Hola.csproj.CoreCompileInputs.cache
+/home/adriba/Projects/Hola/Hola/obj/x86/Debug/Hola.exe
+/home/adriba/Projects/Hola/Hola/obj/x86/Debug/Hola.pdb

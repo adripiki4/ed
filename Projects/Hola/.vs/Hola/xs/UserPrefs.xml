@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{903CADA6-13BE-464D-8473-810A4A21D8A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hola/Program.cs">
+    <Files>
+      <File FileName="Hola/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hola" expanded="True" selected="True">
+            <Node name="Hola" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hola PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

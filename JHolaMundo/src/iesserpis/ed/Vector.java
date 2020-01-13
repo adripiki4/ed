@@ -6,7 +6,6 @@ public class Vector {
 		// TODO Auto-generated method stub
 		int [] v1 = {14, 21, 12, 9, 7};
 		selectionSort(v1);
-		
 	}
 	public static int max(int[] v) {
 		int max = v [0];
@@ -28,13 +27,12 @@ public class Vector {
 //                }
 //               }
 //            }
-		int[] copia= Arrays.copyOfRange(v1, 0, v1.length);
-		Arrays.sort(copia);
-		v1 = copia;
-		for (int i = 0; i<copia.length; i++) {
-			System.out.print(copia[i]+" ");
+		
+		Arrays.sort(v1);
+		for (int i = 0; i<v1.length; i++) {
+			System.out.println(v1[i]);
 		}
-		return copia;
+		return v1;
 		
 	}
 }
