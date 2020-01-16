@@ -1,0 +1,6 @@
+/home/adriba/ed/Projects/Program/Program/bin/Debug/Program.exe
+/home/adriba/ed/Projects/Program/Program/bin/Debug/Program.pdb
+/home/adriba/ed/Projects/Program/Program/obj/x86/Debug/Program.csprojAssemblyReference.cache
+/home/adriba/ed/Projects/Program/Program/obj/x86/Debug/Program.csproj.CoreCompileInputs.cache
+/home/adriba/ed/Projects/Program/Program/obj/x86/Debug/Program.exe
+/home/adriba/ed/Projects/Program/Program/obj/x86/Debug/Program.pdb

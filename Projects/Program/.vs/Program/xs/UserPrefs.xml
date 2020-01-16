@@ -1,13 +1,16 @@
-﻿<Properties StartupConfiguration="{5E605917-D3CB-4FB3-A048-FD57FF1384D7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Suma/Program.cs">
+﻿<Properties StartupConfiguration="{C8671608-2E10-4ECA-8842-5286AFDF8032}|Default">
+  <MonoDevelop.Ide.ItemProperties.Program PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program/MainWindow.cs">
     <Files>
-      <File FileName="Suma/Program.cs" Line="28" Column="1" />
+      <File FileName="Program/Program.cs" Line="1" Column="1" />
+      <File FileName="Program/MainWindow.cs" Line="18" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Suma" expanded="True">
-            <Node name="Suma" expanded="True">
+          <Node name="Program" expanded="True">
+            <Node name="Program" expanded="True">
+              <Node name="Properties" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,7 +20,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.ItemProperties.Suma PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
