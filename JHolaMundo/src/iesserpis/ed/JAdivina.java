@@ -23,7 +23,7 @@ public class JAdivina {
 
 	Random random = new Random();
 	int numeroAleatorio = random.nextInt(1000)+1;
-	//System.out.println("numero aleatorio= " + numeroAleatorio);
+	System.out.println("numero aleatorio= " + numeroAleatorio);
 	
 	Scanner teclado = new Scanner(System.in);
 	

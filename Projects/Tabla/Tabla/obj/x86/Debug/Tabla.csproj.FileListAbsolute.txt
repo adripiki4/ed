@@ -1,0 +1,6 @@
+/home/adriba/ed/Projects/Tabla/Tabla/bin/Debug/Tabla.exe
+/home/adriba/ed/Projects/Tabla/Tabla/bin/Debug/Tabla.pdb
+/home/adriba/ed/Projects/Tabla/Tabla/obj/x86/Debug/Tabla.csprojAssemblyReference.cache
+/home/adriba/ed/Projects/Tabla/Tabla/obj/x86/Debug/Tabla.csproj.CoreCompileInputs.cache
+/home/adriba/ed/Projects/Tabla/Tabla/obj/x86/Debug/Tabla.exe
+/home/adriba/ed/Projects/Tabla/Tabla/obj/x86/Debug/Tabla.pdb
