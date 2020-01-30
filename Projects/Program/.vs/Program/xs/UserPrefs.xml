@@ -3,8 +3,15 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Program/MainWindow.cs">
     <Files>
       <File FileName="Program/Program.cs" Line="10" Column="32" />
-      <File FileName="Program/MainWindow.cs" Line="30" Column="66" />
+      <File FileName="Program/MainWindow.cs" Line="33" Column="45" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Program" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

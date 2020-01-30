@@ -1,23 +1,20 @@
 ﻿<Properties StartupConfiguration="{2CA5B2F4-935D-4377-BDDE-95E2AF9A774C}|Default">
   <MonoDevelop.Ide.ItemProperties.Tabla PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tabla/Panel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabla/MainWindow.cs">
     <Files>
       <File FileName="Tabla/Program.cs" Line="1" Column="1" />
-      <File FileName="Tabla/MainWindow.cs" Line="6" Column="5" />
-      <File FileName="Tabla/Panel.cs" Line="1" Column="1" />
+      <File FileName="Tabla/MainWindow.cs" Line="8" Column="6" />
+      <File FileName="Tabla/Panel.cs" Line="6" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Tabla" expanded="True">
             <Node name="Tabla" expanded="True">
-              <Node name="Panel.cs" selected="True" />
+              <Node name="MainWindow.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

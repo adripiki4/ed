@@ -1,0 +1,6 @@
+/home/adriba/ed/Projects/BingoPiquero/BingoPiquero/bin/Debug/BingoPiquero.exe
+/home/adriba/ed/Projects/BingoPiquero/BingoPiquero/bin/Debug/BingoPiquero.pdb
+/home/adriba/ed/Projects/BingoPiquero/BingoPiquero/obj/x86/Debug/BingoPiquero.csprojAssemblyReference.cache
+/home/adriba/ed/Projects/BingoPiquero/BingoPiquero/obj/x86/Debug/BingoPiquero.csproj.CoreCompileInputs.cache
+/home/adriba/ed/Projects/BingoPiquero/BingoPiquero/obj/x86/Debug/BingoPiquero.exe
+/home/adriba/ed/Projects/BingoPiquero/BingoPiquero/obj/x86/Debug/BingoPiquero.pdb
