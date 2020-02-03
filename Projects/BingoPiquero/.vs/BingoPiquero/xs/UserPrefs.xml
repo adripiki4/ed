@@ -3,9 +3,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="BingoPiquero/MainWindow.cs">
     <Files>
       <File FileName="BingoPiquero/Program.cs" Line="17" Column="1" />
-      <File FileName="BingoPiquero/MainWindow.cs" Line="12" Column="9" />
-      <File FileName="BingoPiquero/Bombo.cs" Line="28" Column="9" />
-      <File FileName="BingoPiquero/PanelBingo.cs" Line="30" Column="5" />
+      <File FileName="BingoPiquero/MainWindow.cs" Line="27" Column="1" />
+      <File FileName="BingoPiquero/Bombo.cs" Line="28" Column="1" />
+      <File FileName="BingoPiquero/PanelBingo.cs" Line="25" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

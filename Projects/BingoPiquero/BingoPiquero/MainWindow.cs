@@ -9,6 +9,10 @@ public partial class MainWindow : Gtk.Window
         Build();
         panelbingo panelbingo = new panelbingo(vbox1);
         Bombo bombo = new Bombo();
+        bJugar.Clicked += delegate {
+
+            int numero = bombo.sacarBola();
+            };
 
     }
 
@@ -17,4 +21,6 @@ public partial class MainWindow : Gtk.Window
         Application.Quit();
         a.RetVal = true;
     }
+
+   
 }
