@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{ACBDB38C-2F72-42A9-857C-FF92F1933849}|Default">
   <MonoDevelop.Ide.ItemProperties.BingoPiquero PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BingoPiquero/MainWindow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BingoPiquero/Program.cs">
     <Files>
       <File FileName="BingoPiquero/Program.cs" Line="17" Column="1" />
-      <File FileName="BingoPiquero/MainWindow.cs" Line="27" Column="1" />
       <File FileName="BingoPiquero/Bombo.cs" Line="28" Column="1" />
       <File FileName="BingoPiquero/PanelBingo.cs" Line="25" Column="18" />
+      <File FileName="BingoPiquero/MainWindow.cs" Line="24" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BingoPiquero" expanded="True">
             <Node name="BingoPiquero" expanded="True">
-              <Node name="MainWindow.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

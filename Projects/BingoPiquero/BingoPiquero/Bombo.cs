@@ -16,7 +16,7 @@ namespace BingoPiquero
                 bolas.Add(bola);
         }
 
-        public int sacarBola()
+        public int SacarBola()
         {
 
             int indexAleatorio = random.Next(bolas.Count);
