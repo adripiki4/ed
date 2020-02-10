@@ -29,7 +29,7 @@ public partial class MainWindow : Gtk.Window
     protected void OnBJugarClicked(object sender, EventArgs e)
     {
         int numero = bombo.SacarBola();
-        panelbingo.Marcar(numero);
+        panelbingo.Marcar(numero); 
         
     }
 }
