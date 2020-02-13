@@ -3,9 +3,11 @@ using Gtk;
 
 public partial class MainWindow : Gtk.Window
 {
+    int contador;
     public MainWindow() : base(Gtk.WindowType.Toplevel)
     {
         Build();
+     
     }
 
     protected void OnDeleteEvent(object sender, DeleteEventArgs a)
@@ -17,12 +19,18 @@ public partial class MainWindow : Gtk.Window
     protected void OnBotonvaciarClicked(object sender, EventArgs e)
     {
         pantalla.DeleteText(0, pantalla.Text.Length);
+        contador = 0;
 
     }
 
     protected void OnBotonborraClicked(object sender, EventArgs e)
     {
         pantalla.DeleteText(pantalla.Text.Length - 1, pantalla.Text.Length);
+        String display = pantalla.Text.ToString();
+        if (!display.Contains(","))
+        {
+            contador = 0;
+        }
     }
 
     protected void OnBoton7Clicked(object sender, EventArgs e)
@@ -110,9 +118,13 @@ public partial class MainWindow : Gtk.Window
 
     protected void OnBotoncomaClicked(object sender, EventArgs e)
     {
-        String display = pantalla.Text.ToString();
-        pantalla.DeleteText(0, pantalla.Text.Length);
-        pantalla.InsertText(display + ",");
+        if (contador == 0)
+        {
+            String display = pantalla.Text.ToString();
+            pantalla.DeleteText(0, pantalla.Text.Length);
+            pantalla.InsertText(display + ",");
+            contador++;
+        }
     }
 
     protected void OnBotonigualClicked(object sender, EventArgs e)
