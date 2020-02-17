@@ -4,7 +4,7 @@
     <Files>
       <File FileName="BingoPiquero/Program.cs" Line="17" Column="1" />
       <File FileName="BingoPiquero/Bombo.cs" Line="23" Column="1" />
-      <File FileName="BingoPiquero/PanelBingo.cs" Line="25" Column="1" />
+      <File FileName="BingoPiquero/PanelBingo.cs" Line="3" Column="11" />
       <File FileName="BingoPiquero/MainWindow.cs" Line="32" Column="36" />
     </Files>
     <Pads>

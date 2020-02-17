@@ -1,9 +1,13 @@
 ﻿using System;
 using Gtk;
+using Gdk;
 
 public partial class MainWindow : Gtk.Window
 {
     int contador;
+    float display1;
+    float display2;
+    Operaciones operaciones = new Operaciones();
     public MainWindow() : base(Gtk.WindowType.Toplevel)
     {
         Build();
@@ -88,6 +92,7 @@ public partial class MainWindow : Gtk.Window
         String display = pantalla.Text.ToString();
         pantalla.DeleteText(0, pantalla.Text.Length);
         pantalla.InsertText(display + "1");
+
     }
 
     protected void OnBoton2Clicked(object sender, EventArgs e)
@@ -127,11 +132,18 @@ public partial class MainWindow : Gtk.Window
         }
     }
 
-    protected void OnBotonigualClicked(object sender, EventArgs e)
-    {
-    }
-
     protected void OnBotonsumaClicked(object sender, EventArgs e)
     {
+        display1 = Convert.ToSingle(pantalla.Text);
+        pantalla.DeleteText(0, pantalla.Text.Length);
+    }
+
+    protected void OnBotonigualClicked(object sender, EventArgs e)
+    {
+        display2 = Convert.ToSingle(pantalla.Text);
+        pantalla.DeleteText(0, pantalla.Text.Length);
+        float v = (float)operaciones.suma(display1, display2);
+      
+
     }
 }
