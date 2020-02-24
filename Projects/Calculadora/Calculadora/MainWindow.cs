@@ -73,6 +73,7 @@ public partial class MainWindow : Gtk.Window
 
     protected void OnBotondivClicked(object sender, EventArgs e)
     {
+        contador = 0;
         display1 = Convert.ToSingle(pantalla.Text);
         pantalla.DeleteText(0, pantalla.Text.Length);
         opcion = 4;
@@ -110,6 +111,7 @@ public partial class MainWindow : Gtk.Window
 
     protected void OnBotonmultClicked(object sender, EventArgs e)
     {
+        contador = 0;
         display1 = Convert.ToSingle(pantalla.Text);
         pantalla.DeleteText(0, pantalla.Text.Length);
         opcion = 3;
@@ -147,6 +149,7 @@ public partial class MainWindow : Gtk.Window
 
     protected void OnBotonmenosClicked(object sender, EventArgs e)
     {
+        contador = 0;
         display1 = Convert.ToSingle(pantalla.Text);
         pantalla.DeleteText(0, pantalla.Text.Length);
         opcion = 2;
@@ -173,6 +176,7 @@ public partial class MainWindow : Gtk.Window
 
     protected void OnBotonsumaClicked(object sender, EventArgs e)
     {
+        contador = 0;
         display1 = Convert.ToSingle(pantalla.Text);
         pantalla.DeleteText(0, pantalla.Text.Length);
         opcion = 1;
