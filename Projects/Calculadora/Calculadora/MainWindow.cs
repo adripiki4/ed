@@ -168,10 +168,21 @@ public partial class MainWindow : Gtk.Window
         if (contador == 0)
         {
             String display = pantalla.Text.ToString();
-            pantalla.DeleteText(0, pantalla.Text.Length);
-            pantalla.InsertText(display + ",");
-            contador++;
+            if (display.Equals(""))
+            {
+                pantalla.DeleteText(0, pantalla.Text.Length);
+                pantalla.InsertText("0,");
+                contador++;
+            }
+            else
+            {
+                pantalla.DeleteText(0, pantalla.Text.Length);
+                pantalla.InsertText(display + ",");
+                contador++;
+            }
+
         }
+
     }
 
     protected void OnBotonsumaClicked(object sender, EventArgs e)
